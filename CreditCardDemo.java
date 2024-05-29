@@ -1,4 +1,7 @@
 /**
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
  * The CreditCardDemo class demonstrates the use of the CreditCard class.
  */
 public class CreditCardDemo {

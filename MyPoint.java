@@ -1,3 +1,9 @@
+/*
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
+ * The MyPoint class to calculate point
+ */
 public class MyPoint {
     private int x, y;
 

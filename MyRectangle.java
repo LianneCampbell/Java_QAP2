@@ -1,4 +1,7 @@
 /**
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
  * The MyRectangle class models a rectangle with top-left and bottom-right
  * corners.
  */

@@ -1,4 +1,7 @@
 /**
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
  * The TestMyRectangle class is used to test the MyRectangle class.
  */
 public class TestMyRectangle {

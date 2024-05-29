@@ -1,4 +1,7 @@
 /**
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
  * The CreditCard class models a credit card with an owner, balance, and credit
  * limit.
  */

@@ -1,4 +1,7 @@
 /**
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
  * The Address class models an address with street, city, state, and zip code.
  */
 public class Address {

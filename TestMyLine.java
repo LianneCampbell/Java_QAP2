@@ -1,3 +1,10 @@
+/*
+ * This Class Tests MyPoint/MyLine
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
+ */
+
 public class TestMyLine {
     public static void main(String[] args) {
         // Test constructors and toString()

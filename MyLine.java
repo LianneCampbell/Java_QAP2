@@ -1,3 +1,10 @@
+/*
+ * Name: Lianne Campbell
+ * Project: Java QAP 2
+ * Date: 5/28/2024
+ * MyLine Class to calculate line from point 1, 2
+ */
+
 public class MyLine {
     private MyPoint begin, end;
 
